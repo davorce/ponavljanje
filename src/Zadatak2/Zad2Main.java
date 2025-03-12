@@ -11,7 +11,6 @@ public class Zad2Main {
         int y = scan.nextInt();
 
         iscrtaj(x, y);
-
     }
 
     private static void iscrtaj(int x, int y) {
